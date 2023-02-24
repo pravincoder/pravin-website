@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pravincoder/pravin-website/static/css/main.269595b2.css",
-    "main.js": "/pravincoder/pravin-website/static/js/main.94ef8003.js",
-    "static/media/resume.pdf": "/pravincoder/pravin-website/static/media/resume.42b4dd4ebe42fa04aa67.pdf",
-    "static/media/m6.png": "/pravincoder/pravin-website/static/media/m6.26ca56c3c6da1c0eadc1.png",
-    "static/media/my_profile.jpg": "/pravincoder/pravin-website/static/media/my_profile.be163e23ae6c5918bc1c.jpg",
-    "index.html": "/pravincoder/pravin-website/index.html",
-    "main.269595b2.css.map": "/pravincoder/pravin-website/static/css/main.269595b2.css.map",
-    "main.94ef8003.js.map": "/pravincoder/pravin-website/static/js/main.94ef8003.js.map"
+    "main.css": "/pravin-website/static/css/main.269595b2.css",
+    "main.js": "/pravin-website/static/js/main.1d365abc.js",
+    "static/media/resume.pdf": "/pravin-website/static/media/resume.42b4dd4ebe42fa04aa67.pdf",
+    "static/media/m6.png": "/pravin-website/static/media/m6.26ca56c3c6da1c0eadc1.png",
+    "static/media/my_profile.jpg": "/pravin-website/static/media/my_profile.be163e23ae6c5918bc1c.jpg",
+    "index.html": "/pravin-website/index.html",
+    "main.269595b2.css.map": "/pravin-website/static/css/main.269595b2.css.map",
+    "main.1d365abc.js.map": "/pravin-website/static/js/main.1d365abc.js.map"
   },
   "entrypoints": [
     "static/css/main.269595b2.css",
-    "static/js/main.94ef8003.js"
+    "static/js/main.1d365abc.js"
   ]
 }
